@@ -28,6 +28,7 @@ const userData = [
 // 5. Given the data above, use ".map" to make an array of objects.
 // Each object should have the id of the user and the amount of favorite foods they have.
 // example: [{id: '111', favoriteFoods: 2}]
+userData.map(user => console.log(`id: ${user.id}, favoriteFoods: ${user.favorites.food.length}`))
 
 
 ////////////////////

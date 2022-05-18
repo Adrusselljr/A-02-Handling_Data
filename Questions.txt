@@ -1,7 +1,11 @@
 Explain what the ".map" properties of arrays does.
+map creates a new array by transforming every element in an array individually.
 
 Explain what the ".reduce" properties of arrays does.
+reduce takes all of the elements in an array and reduces them into a single value.
 
 How is ".map" different from reduce?
+map creates a new array by transforming every element in an array individually. reduce takes all of the elements in an array and reduces them into a single value.
 
 What are "switch" statements?
+part of JavaScript's conditional statements, which are used to perform different actions based on different conditions.
